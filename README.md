@@ -26,7 +26,7 @@ Several models were trained and evaluated. Below are the results sorted by accur
 
 | Model                  | Accuracy (%) |
 |------------------------|--------------|
-| ✅ Random Forest        | **90.00**     |
+| Random Forest        | **90.00**     |
 | AdaBoost               | 88.61        |
 | Gradient Boosting      | 88.33        |
 | XGBoost                | 87.50        |
