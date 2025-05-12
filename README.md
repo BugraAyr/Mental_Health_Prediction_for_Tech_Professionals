@@ -26,13 +26,13 @@ Several models were trained and evaluated. Below are the results sorted by accur
 
 | Model                  | Accuracy (%) |
 |------------------------|--------------|
-| Random Forest        | **90.00**     |
+| Random Forest        | **88.89**     |
 | AdaBoost               | 88.61        |
 | Gradient Boosting      | 88.33        |
 | XGBoost                | 87.50        |
 | Logistic Regression    | 83.89        |
 | K-Nearest Neighbors    | 82.78        |
-| Decision Tree          | 79.44        |
+| Decision Tree          | 82.78        |
 
 ##  Evaluation
 
